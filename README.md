@@ -1,0 +1,2 @@
+# Volunteer-App
+There are a lot of people who wish to voluntarily teach kids in Govt schools as well a small private school and there may be some small govt schools and school for disables which lack teaching staff and are in very much need of volunteers. So we have come up with a mobile application which helps in connecting these types of schools with like minded people who wish to volunteer and help the needy.
